@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently engaging in competitive programming.  
-[My blog](https://egrvigrf.github.io/)  
+- 🔭 I’m currently engaging in competitive programming.
+
 <!--
 **Egrvigrf/Egrvigrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
