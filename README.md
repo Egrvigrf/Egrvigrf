@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Egrvigrf&show_icons=true) 
 
-- 🔭 I’m currently engaging in competitive programming.
+
 
 
 
